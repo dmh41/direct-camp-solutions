@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-directcampsolutions-dev-172707-authRole",
+      "UnauthRoleArn": "arn:aws:iam::972348937903:role/amplify-directcampsolutions-dev-172707-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::972348937903:role/amplify-directcampsolutions-dev-172707-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-directcampsolutions-dev-172707-deployment",
+      "UnauthRoleName": "amplify-directcampsolutions-dev-172707-unauthRole",
+      "StackName": "amplify-directcampsolutions-dev-172707",
+      "StackId": "arn:aws:cloudformation:us-east-1:972348937903:stack/amplify-directcampsolutions-dev-172707/3b49a990-a0ed-11ed-a3ac-0a28b70a2e63",
+      "AmplifyAppId": "d1b3t7n17osjrn"
+    }
+  }
+}
