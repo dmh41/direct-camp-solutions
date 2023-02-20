@@ -10,6 +10,11 @@
       "StackName": "amplify-directcampsolutions-dev-172707",
       "StackId": "arn:aws:cloudformation:us-east-1:972348937903:stack/amplify-directcampsolutions-dev-172707/3b49a990-a0ed-11ed-a3ac-0a28b70a2e63",
       "AmplifyAppId": "d1b3t7n17osjrn"
+    },
+    "categories": {
+      "auth": {
+        "directcampsolutions": {}
+      }
     }
   }
 }
